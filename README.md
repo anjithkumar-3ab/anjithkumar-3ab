@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anjithkumar-3ab/anjithkumar-3ab/main/assets/oggy-profile.png" width="300"/>
+<img src=assets/Oggy.png width="300"/>
 
 # 🐱 OGGY'S TECH LAB
 
