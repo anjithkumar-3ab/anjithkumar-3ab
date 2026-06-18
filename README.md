@@ -87,7 +87,7 @@ Current_Status:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/anjithkumar-3ab/anjithkumar-3ab/output/github-contribution-grid-snake.svg"/>
+<img src=assets/oggy-bughunter.gif>
 
 </p>
 
