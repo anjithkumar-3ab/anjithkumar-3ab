@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=assets/Oggy.png width="300"/>
+<img src=assets/computer.gif width="300"/>
 
 # 🐱 OGGY'S TECH LAB
 
