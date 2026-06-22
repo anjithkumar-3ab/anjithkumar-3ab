@@ -1,175 +1,192 @@
-<img src="assets/computer.gif" width="280"/>
-
-# 🐱 OGGY'S TECH LAB
-
-### `while(bugs.length > 0) { hunt(); }`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+to+the+Lab!;Oggy+stopped+chasing+roaches...;...now+he+chases+bugs+in+code+%F0%9F%90%9B;AI+%26+ML+Enthusiast;Data+Analytics+Explorer;Power+BI+Developer;Turning+Raw+Data+into+Real+Insights" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=anjithkumar-3ab&color=00F5FF&style=for-the-badge&label=ROACH+SIGHTINGS)](https://github.com/anjithkumar-3ab)
-[![Followers](https://img.shields.io/github/followers/anjithkumar-3ab?style=for-the-badge&color=00F5FF&label=FOLLOWERS)](https://github.com/anjithkumar-3ab?tab=followers)
-[![Pro Badge](https://img.shields.io/badge/GITHUB-PRO-FFD700?style=for-the-badge&logo=github)](https://github.com/anjithkumar-3ab)
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-
-## 🐱 About Me
-
-<table>
-<tr>
-<td width="60%">
-
----
-
-<!-- ============================================================ -->
-
-## 🪳 WANTED: THE BUG SQUAD
+# 👋 Hi, I'm Anjith Kumar Bathala
 
 <div align="center">
 
-| Suspect                                 | Last Seen In         | Status         |
-| --------------------------------------- | -------------------- | -------------- |
-| **Joey** the Off-by-One Error     | Loop Conditions      | 🔴 Captured    |
-| **Dee Dee** the Null Pointer      | Production Logs      | 🟡 Cornered    |
-| **Marky** the Memory Leak         | Long-Running Scripts | 🟢 Patrolling  |
-| **The Big One** — Merge Conflict | `main` branch      | 🔵 Negotiating |
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+for+Analytics;Transforming+Data+Into+Insights" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anjithkumar-3ab&label=Profile%20Views&color=blue&style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ============================================================ -->
+## 📊 About Me
 
-## 🚀 Oggy's Mission Board
+🎓 B.Tech CSE (AI & ML) Student
 
-<p align="center">
-<img src="https://img.shields.io/badge/🧠_AI_%26_Machine_Learning-In_Progress-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Data_Analytics-Active-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📈_Power_BI_Dashboards-Building-00F5FF?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/🐍_Python_Development-Daily-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🗄_SQL_%26_Databases-Practicing-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁_Cloud_Tech-Exploring-FFD700?style=for-the-badge"/>
-</p>
+📈 Aspiring Data Analyst passionate about turning raw data into meaningful business insights.
+
+📊 Skilled in Power BI, SQL, Excel, Python, Data Visualization, and Business Intelligence.
+
+💡 Interested in KPI Analytics, Dashboard Development, Data Storytelling, and Predictive Analytics.
+
+🌱 Currently enhancing my skills in Advanced DAX, Data Engineering, and Forecasting Techniques.
 
 ---
 
-<!-- ============================================================ -->
+## 🚀 Tech Stack
 
-## 🛠 Tech Arsenal (Oggy's Toolbox)
+### 📊 Data Analytics & BI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,html,css,javascript,github&theme=dark"/>
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow">
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white">
-</p>
+### 🐍 Programming & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
-<!-- ============================================================ -->
-
-## 📊 GitHub Stats — The Hunt Log
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=anjithkumar-3ab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FFD700"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjithkumar-3ab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjithkumar-3ab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjithkumar-3ab&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FFD700"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjithkumar-3ab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-<!-- ============================================================ -->
-
-## 🐍 Contribution Snake — Oggy Mid-Chase
-
-<p align="center">
-<img src="https://github.com/anjithkumar-3ab/anjithkumar-3ab/blob/output/github-contribution-grid-snake.svg" alt="Oggy chasing the contribution graph"/>
-</p>
-
-<p align="center"><sub>⚠️ This animates automatically once the workflow below is added — see setup notes at the bottom.</sub></p>
-
----
-
-<!-- ============================================================ -->
-
-## 🚆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+<br>
 
 <div align="center">
 
-[![Repos](https://img.shields.io/badge/See_All_Repositories-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anjithkumar-3ab?tab=repositories)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjithkumar-3ab&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ============================================================ -->
+## 📊 Contribution Activity
 
-## 📈 Analytics Corner
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjithkumar-3ab&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anjithkumar-3ab&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 Smart Retail Analytics Dashboard
+
+* Sales Performance Analysis
+* Customer Insights
+* Inventory Management
+* Demand Forecasting
+* KPI Monitoring
+
+### 🇩🇪 Germany Higher Education Analytics
+
+* University Analysis
+* Public vs Private Institutions
+* Course Distribution Insights
+* Interactive Power BI Visualizations
+
+### 📈 Sales Performance Dashboard
+
+* Revenue Tracking
+* Profitability Analysis
+* Regional Performance Monitoring
+* Trend Forecasting
+
+### 👥 Customer Segmentation Analytics
+
+* Behavioral Analysis
+* Customer Retention Metrics
+* Business Recommendations
+* Insight-Driven Decision Making
+
+---
+
+## 📜 Certifications
+
+🏅 Google Data Analytics
+
+🏅 Foundations of Artificial Intelligence
+
+🏅 Cybersecurity with Generative AI
+
+🏅 AWS APAC Solutions Architecture Job Simulation
+
+🏅 Data Analysis with Python
+
+🏅 Business Intelligence & Power BI
+
+---
+
+## 📚 Currently Learning
 
 ```text
-📊 Data Cleaning          ████████████████░░░░  80%
-📈 Data Visualization     ██████████████████░░  90%
-📉 Business Insights      ███████████████░░░░░  75%
-📋 Dashboard Development  █████████████████░░░  85%
-📌 KPI Tracking           ████████████████░░░░  80%
-⚡ Predictive Analytics   ██████████████░░░░░░  70%
+Advanced DAX
+Data Engineering
+Data Warehousing
+Business Intelligence Solutions
+Predictive Analytics
+Machine Learning for Business
 ```
 
 ---
 
-<!-- ============================================================ -->
+## 🎯 2026 Goals
 
-## 🏆 Trophy Cabinet
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anjithkumar-3ab&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
-</div>
+* Build 10+ End-to-End Analytics Projects
+* Master Advanced Power BI & DAX
+* Strengthen SQL Problem Solving
+* Develop Interactive Business Dashboards
+* Contribute to Open Source Analytics Projects
 
 ---
-
-<!-- ============================================================ -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anjithkumarbathala">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+
+<a href="https://github.com/anjithkumar-3ab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 🐱 Code • Analyze • Learn • Repeat
+### 📊 Turning Data Into Decisions
 
-*"Every bug is just a cockroach that learned to code."* — Oggy, probably
-
-![](https://komarev.com/ghpvc/?username=anjithkumar-3ab&color=blueviolet&style=for-the-badge)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
