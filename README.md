@@ -187,6 +187,6 @@ Machine Learning for Business
 
 ### 📊 Turning Data Into Decisions
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/anjithkumar-3ab/anjithkumar-3ab/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
