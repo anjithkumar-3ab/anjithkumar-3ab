@@ -1,10 +1,29 @@
-name: Test
+name: Generate Snake
 
 on:
-  workflow_dispatch:
+workflow_dispatch:
+
+permissions:
+contents: write
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Hello World"
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate Snake Animation
+    uses: Platane/snk@v3
+    with:
+      github_user_name: anjithkumar-3ab
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+  - name: Deploy to GitHub Pages
+    uses: peaceiris/actions-gh-pages@v3
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      publish_dir: ./dist
+      publish_branch: output
+```
